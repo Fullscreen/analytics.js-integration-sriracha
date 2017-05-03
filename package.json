@@ -1,5 +1,5 @@
 {
-  "name": "FindHotel/analytics.js-integration-findhotel",
+  "name": "@segment/analytics.js-integration-segmentio",
   "description": "The Segmentio analytics.js integration.",
   "version": "3.4.2",
   "keywords": [
