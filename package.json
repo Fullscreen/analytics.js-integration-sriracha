@@ -1,7 +1,7 @@
 {
-  "name": "@segment/analytics.js-integration-sriracha",
+  "name": "@fsrob/analytics.js-integration-sriracha",
   "description": "The Sriracha analytics.js integration.",
-  "version": "1.0",
+  "version": "3.4.2",
   "keywords": [
     "analytics.js",
     "analytics.js-integration",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/rae89/analytics.js-integration-sriracha.git"
   },
-  "author": "Segment",
+  "author": "Segment <friends@segment.com>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/segment-integrations/analytics.js-integration-segmentio/issues"
