@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rae89/analytics.js-integration-sriracha.git"
+    "url": "git+https://github.com/fullscreen/analytics.js-integration-sriracha.git"
   },
   "author": "Segment <friends@segment.com>",
   "license": "SEE LICENSE IN LICENSE",
